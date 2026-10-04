@@ -17,7 +17,7 @@ Plays a sound when your Steam Frame (or any SteamOS / Linux device) is plugged i
 Open a terminal on the Frame, put your GitHub username in the first word, and run:
 
 ```bash
-REPO=YOUR_USERNAME/notipower; curl -fsSL https://raw.githubusercontent.com/$REPO/main/install.sh | bash -s -- $REPO
+REPO=ShinoSenpaii/notipower; curl -fsSL https://raw.githubusercontent.com/$REPO/main/install.sh | bash -s -- $REPO
 ```
 
 Then in Steam: **+ → Add a Non-Steam Game → NotiPower**.
@@ -25,7 +25,7 @@ Then in Steam: **+ → Add a Non-Steam Game → NotiPower**.
 ## Uninstall
 
 ```bash
-REPO=YOUR_USERNAME/notipower; curl -fsSL https://raw.githubusercontent.com/$REPO/main/uninstall.sh | bash
+REPO=ShinoSenpaii/notipower; curl -fsSL https://raw.githubusercontent.com/$REPO/main/uninstall.sh | bash
 ```
 
 ## Requirements
